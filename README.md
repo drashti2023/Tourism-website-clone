@@ -1,11 +1,20 @@
-# Tourism-website-clone
-Invincible NGO Website Clone 
+## **🌍 Tourism Website Clone - Invincible NGO**  
 
-A fully responsive clone of a tourism agency's homepage, showcasing a range of travel packages and services. 
-The website was built using HTML, CSS, Bootstrap, and version-controlled with Git.
+### **📌 Overview**  
+A fully responsive and visually engaging **clone** of a tourism agency’s homepage, designed to showcase a variety of **travel packages and services**. This project replicates key features of an existing tourism platform using modern **frontend technologies**.  
 
-Recreated Key Features: Destination showcases, travel packages, customer inquiry forms, and responsive navigation.
+### **🛠 Tech Stack**  
+- **Languages & Frameworks:** HTML, CSS, Bootstrap  
+- **Version Control:** Git & GitHub  
+- **Responsive Design:** Bootstrap Grid System  
 
-Responsive Design: Focused on creating a mobile-friendly layout using Bootstrap's grid system.
+### **✨ Features**  
+👉 **Recreated Core Components** – Destination highlights, package details, customer inquiry forms, and seamless navigation.  
+👉 **Fully Responsive UI** – Ensures a mobile-friendly experience with Bootstrap's grid and flex utilities.  
+👉 **Interactive Design** – Includes smooth hover effects, animated image carousels, and interactive booking forms.  
+👉 **User-Centric Experience** – Prioritizes accessibility, easy navigation, and aesthetic appeal.  
 
-Interactive UI: Integrated image carousels, cards for destinations, and booking forms with hover effects and smooth transitions.
+### **🖼️ Live Preview & Code**  
+🔗 **GitHub Repository:** [Tourism Website Clone](https://github.com/drashti2023/Tourism-website-clone.git)  
+
+---
